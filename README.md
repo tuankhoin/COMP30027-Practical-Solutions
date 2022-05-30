@@ -8,3 +8,7 @@ All the original credits go to Kris, Hasti and the COMP30027 Teaching Team. Have
 Some quick stuffs:
 - I have added on each notebook a button so that you can run them on Colab if you want.
 - If you like it, give the repo a star so that I look cooler on my GitHub profile ;) .
+
+End of sem! It has been a great time teaching you all. Thank you for giving me this experience!
+
+If you want to keep in touch, [I'm everywhere](https://tkhoinguyen.netlify.app/contact/) ;)
